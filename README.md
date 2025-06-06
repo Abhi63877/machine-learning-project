@@ -1,0 +1,1 @@
+Medical Cost Prediction is a type of regression problem in machine learning where the goal is to predict the healthcare cost or insurance charges for a patient based on features such as age, gender, BMI, smoking status, and region. This type of analysis is widely used in the insurance industry and healthcare systems for risk assessment, policy pricing, and financial planning.
